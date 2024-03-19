@@ -7,10 +7,10 @@
 
 # Get Started
 
-*See Our Repos
-*Contribute To Our Projects
-*Use Our Repos for Inspo
-*Ask Questions
+* See Our Repos
+* Contribute To Our Projects
+* Use Our Repos for Inspo
+* Ask Questions
 
 
 # Policies
