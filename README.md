@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome to Kuyomi's Open Source Projects
 
-<!--
-**KuyomiCorporation/KuyomiCorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="http://ecsv4-content-assets.kuyomistatic.com/wp-content/uploads/2024/03/Untitled-design-34.png" alt="KuyomiLogo" style="border-radius: 9px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# Get Started
+
+*See Our Repos
+*Contribute To Our Projects
+*Use Our Repos for Inspo
+*Ask Questions
+
+
+# Policies
+
+[Privacy Statement](https://support.kuyomi.co/hc/en-us/article/kuyomi-privacy-statement/)
+
+[Terms of Service](https://support.kuyomi.co/hc/en-us/article/terms-of-service/)
